@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterClient", "MasterClient\MasterClient.csproj", "{9E3C42F1-B58D-4318-931D-B6B4138729E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientAPI", "ClientAPI\ClientAPI.csproj", "{0AF2FDD3-1A4C-41E6-9EE8-CE9752452805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharing", "Sharing\Sharing.csproj", "{3200E416-8C3D-42F5-93CE-D545C78E92C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{9E3C42F1-B58D-4318-931D-B6B4138729E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E3C42F1-B58D-4318-931D-B6B4138729E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E3C42F1-B58D-4318-931D-B6B4138729E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF2FDD3-1A4C-41E6-9EE8-CE9752452805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF2FDD3-1A4C-41E6-9EE8-CE9752452805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF2FDD3-1A4C-41E6-9EE8-CE9752452805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF2FDD3-1A4C-41E6-9EE8-CE9752452805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3200E416-8C3D-42F5-93CE-D545C78E92C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3200E416-8C3D-42F5-93CE-D545C78E92C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3200E416-8C3D-42F5-93CE-D545C78E92C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3200E416-8C3D-42F5-93CE-D545C78E92C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
